@@ -1,0 +1,6 @@
+{
+  "BUILD_LEVEL": "staging",
+  "METOMIC_ID": "prj:35e1ddca-a6c7-436c-815c-ec360ae315b1",
+  "GA_TRACKING_ID" : "G-EDR7RF7GHV",
+  "TTS_API_URL": "https://public-platform-git-cors-api.timetospare-team.vercel.app/api"
+}

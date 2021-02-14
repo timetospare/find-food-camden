@@ -1,0 +1,6 @@
+<svg width="70" height="70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M70 0H0v70h70V0z" fill="#fff"/>
+  <path d="M35.5 61a25.5 25.5 0 100-51 25.5 25.5 0 000 51z" fill="#B30000"/>
+  <path d="M22 43.3L35.6 20l13.4 23.3H22.1z" stroke="#fff" stroke-width="3"/>
+  <path d="M22 27.8L35.6 51l13.4-23.3H22.1z" stroke="#fff" stroke-width="3"/>
+</svg>
