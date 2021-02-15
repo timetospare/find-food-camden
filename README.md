@@ -17,14 +17,18 @@ You'll need to create a .env file with the following values:
 
 `TTS_SECRET_ID="your time to spare secret key"`<br/>
 `TTS_USER_ID="your time to spare API user id"`<br/>
-For accessing the Time to Spare API<br/>
 
-`NEXT_PUBLIC_MAPBOX_TOKEN="your mapbox token"`<br/>
-To render the map<br/>
+For accessing the Time to Spare API - to get a set of credentials, ask tom@timetospare.com.
+
+
+`NEXT_PUBLIC_MAPBOX_TOKEN="your mapbox token"`
+
+To render the map. Go here to signup for a key if you haven't already got an account: https://account.mapbox.com/auth/signup/
 
 `TRAVELTIME_APP_ID="your travel time app id"`<br/>
-`TRAVELTIME_API_KEY="your travel time api key"`<br/>
-To show "walking time" values on the results
+`TRAVELTIME_API_KEY="your travel time api key"`
+
+To show "walking time" values on the results - go here to get a free/paid API key: https://traveltime.com/search/pricing
 
 ## To run locally
 
@@ -36,12 +40,16 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+This project uses React (v17), Next.js (v10) and Tailwind (v1.9).
+
+To learn about React, take a look at their documentation: https://reactjs.org/
+
+If you're familiar with React but want to learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+For tailwind (and an explanation of why the CSS classes look strange), see here: https://tailwindcss.com/docs. This cheatsheet is also helpful: https://nerdcave.com/tailwind-cheat-sheet.
 
 ## Deploy on Vercel
 
