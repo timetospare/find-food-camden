@@ -1,3 +1,5 @@
+This project is a public facing front end for displaying VCS services on a map. The "back end" is also in this repo in the `/pages/api` directory, however this is not really a back-end, but just serverless functions that call the Time to Spare API to fetch the right information.
+
 ## Getting Started
 
 First, run `yarn` to install all the dependencies.
