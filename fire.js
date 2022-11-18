@@ -12,17 +12,17 @@ const REGION = 'europe-west1';
 const DEV_PORT = 5001;
 
 const productionConfig = {
-  apiKey: 'AIzaSyA8FFWoOifdusbuoYB2ksneSlPl-GwoLJo',
-  authDomain: 'timetospare-123.firebaseapp.com',
-  storageBucket: 'timetospare-123.appspot.com',
-  projectId: 'timetospare-123',
+  apiKey: <<apiKey>>,
+  authDomain: <<domain>>,
+  storageBucket: <<bucket>>,
+  projectId: <<projectId>>,
 };
 
 const stagingConfig = {
-  apiKey: 'AIzaSyAwnCvJCDBf7AyOp-2iu17bPQy7Cvwb8lY',
-  projectId: 'timetospare-staging',
-  storageBucket: 'timetospare-staging.appspot.com',
-  authDomain: 'timetospare-staging.firebaseapp.com',
+  apiKey: <<apiKey>>,
+  authDomain: <<domain>>,
+  storageBucket: <<bucket>>,
+  projectId: <<projectId>>,
 };
 
 let config;
